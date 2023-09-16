@@ -1,0 +1,19 @@
+{
+  "navigation": 
+    {
+      "home": "Home",
+      "firstpage": "First Page",
+      "secondpage": "Second Page"
+    },
+
+  "firstpage": 
+    {
+      "title": " Welcome Home Page"
+    },
+
+
+  "secondpage":
+    {
+        "title": "Weclome Second Page"
+    }
+}

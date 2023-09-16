@@ -1,0 +1,19 @@
+{
+
+  "navigation": 
+    {
+      "home": "الرئيسية",
+      "firstpage": "الاولي",
+      "secondpage": "من نحن"
+    },
+
+  "firstpage": 
+    {
+      "title": "الاولى"
+    },
+
+  "secondpage": 
+    {
+      "title": "الثانية"
+    }
+}
